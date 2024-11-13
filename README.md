@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+In the last 7 days, time spent writing in:
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
