@@ -20,11 +20,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-PML (AVEVA)    56 mins         █████████████▓░░░░░░░░░░░   54.77 %
-PHP            29 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 %
-VB.NET         12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-OpenEdge ABL   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+PML (AVEVA)    2 hrs 13 mins   ██████████████████░░░░░░░   72.03 %
+PHP            33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+VB.NET         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+JSON           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+OpenEdge ABL   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
