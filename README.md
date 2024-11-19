@@ -20,11 +20,13 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-PML (AVEVA)    2 hrs 26 mins   ███████████████▒░░░░░░░░░   61.98 %
-PHP            1 hr 5 mins     ███████░░░░░░░░░░░░░░░░░░   27.71 %
-VB.NET         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Batchfile      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-HTML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Total Time: 8 hrs 42 mins
+
+PML (AVEVA)   3 hrs 46 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.47 %
+JavaScript    1 hr 54 mins    ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.95 %
+PHP           1 hr 43 mins    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.76 %
+Python        51 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.95 %
+VB.NET        13 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.53 %
 ```
 
 <!--END_SECTION:waka-->
