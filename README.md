@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<a href="https://www.16personalities.com/profiles/a340fcd3a0940">
+  <img src="https://github.com/user-attachments/assets/5522de25-25d1-4153-bc3d-db5be9edd73c" height="280"><img src="https://github.com/user-attachments/assets/9ae5af77-203d-44be-99c0-f8df5dd9acb9" height="280">
+</a>
+
+---
+
 <!--
 **nopchok/nopchok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
